@@ -8,16 +8,10 @@ body{
 	border: 1px solid #000000;
 	background-color: #b4b4b4;
 }
-/*
-.navbar-header{
-	width: 100%;
-	padding-top: 0px;
-	margin-left: 0px;
-
-}*/
 
 .navbar h1{
-	font-size: 1.2em;
+	font-size: 1.4em;
+	color: #000000;
 	font-weight: bold;
 	text-align: left;
 	margin-bottom: 0;
@@ -30,7 +24,6 @@ body{
 	margin-bottom: 0;
 	text-align: center;
 	background-color: #fff;
-	
 }
 
 #nav-list li{
@@ -40,11 +33,10 @@ body{
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
 	border: 1px solid #000000;
-	align-content: center;
 }
 
 .navbar-header button.navbar-toggle {
-	margin-top: 5px;
+	margin-top: 10px;
 }
 
 #type-alignment{
@@ -73,15 +65,3 @@ div #home-menu{
 	padding-right: 20px;
 	margin-bottom: 0;
 }
-/*
-@media (min-width: 992px){
-
-}
-
-@media (min-width: 768px)  and (max-width: 991px){
-
-}
-
-@media (max-width: 767px){
-
-}*/
